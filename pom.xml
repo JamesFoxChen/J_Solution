@@ -27,6 +27,8 @@
 		<module>jsolution-framework-utils</module>
 		<module>jsolution-framework-common</module>
 		<module>jsolution-dataaccess-dao</module>
+			<module>jsolution-biz-model</module>
+				<module>jsolution-test-common</module>
 	</modules>
 
 	<build>
